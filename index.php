@@ -58,7 +58,7 @@
         $ligne +=15;}
       ?>
       <hr>
-        <!-- exercice 7 -->
+        <!-- exercice 8 -->
       <?php
         $ligne = 200;
         while ($ligne >= 0)
